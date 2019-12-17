@@ -1,2 +1,2 @@
 def foo():
-	print("feature A")
+	print("feature B")
